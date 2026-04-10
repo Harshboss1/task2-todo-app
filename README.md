@@ -36,4 +36,4 @@ The goal of this project is to create a dynamic task management interface where 
 Through this project, I learned how to handle user interactions, update the UI dynamically, and work with JavaScript DOM methods and event handling.
 
 ## 👨‍💻 Author
-Your Name
+Harsh walia
